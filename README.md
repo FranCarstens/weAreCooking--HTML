@@ -1,10 +1,10 @@
-#[We are Cooking - React Version.](http://we-are-cooking.herokuapp.com)
+#[We are Cooking - HTML Version.](http://we-are-cooking.herokuapp.com)
 
 *We are Cooking* is a simple, responsive cooking website template created to teach an Intro to HTML & CSS course at The Iron Yard, Houston. The html and css structure was specifically designed to provide a broad overview of tags, style properties, syntax, inheritance and nesting.
 
-**Live preview:** http://we-are-cooking.herokuapp.com
+**Live preview:** https://francarstens.github.io/weAreCooking--HTML/
 
-<sub>*As this template was designed to teach beginners it includes NO browser-prefixing.</sub>
+As this template was designed to teach beginners it includes NO browser-prefixing.
 
 Prefer the [React version](https://github.com/FranCarstens/weAreCooking--React/)?
 
